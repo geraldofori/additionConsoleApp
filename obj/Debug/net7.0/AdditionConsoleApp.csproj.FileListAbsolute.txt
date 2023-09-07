@@ -1,0 +1,15 @@
+/home/gerald/Desktop/All/Projects/AdditionConsoleApp/bin/Debug/net7.0/AdditionConsoleApp
+/home/gerald/Desktop/All/Projects/AdditionConsoleApp/bin/Debug/net7.0/AdditionConsoleApp.deps.json
+/home/gerald/Desktop/All/Projects/AdditionConsoleApp/bin/Debug/net7.0/AdditionConsoleApp.runtimeconfig.json
+/home/gerald/Desktop/All/Projects/AdditionConsoleApp/bin/Debug/net7.0/AdditionConsoleApp.dll
+/home/gerald/Desktop/All/Projects/AdditionConsoleApp/bin/Debug/net7.0/AdditionConsoleApp.pdb
+/home/gerald/Desktop/All/Projects/AdditionConsoleApp/obj/Debug/net7.0/AdditionConsoleApp.csproj.AssemblyReference.cache
+/home/gerald/Desktop/All/Projects/AdditionConsoleApp/obj/Debug/net7.0/AdditionConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/gerald/Desktop/All/Projects/AdditionConsoleApp/obj/Debug/net7.0/AdditionConsoleApp.AssemblyInfoInputs.cache
+/home/gerald/Desktop/All/Projects/AdditionConsoleApp/obj/Debug/net7.0/AdditionConsoleApp.AssemblyInfo.cs
+/home/gerald/Desktop/All/Projects/AdditionConsoleApp/obj/Debug/net7.0/AdditionConsoleApp.csproj.CoreCompileInputs.cache
+/home/gerald/Desktop/All/Projects/AdditionConsoleApp/obj/Debug/net7.0/AdditionConsoleApp.dll
+/home/gerald/Desktop/All/Projects/AdditionConsoleApp/obj/Debug/net7.0/refint/AdditionConsoleApp.dll
+/home/gerald/Desktop/All/Projects/AdditionConsoleApp/obj/Debug/net7.0/AdditionConsoleApp.pdb
+/home/gerald/Desktop/All/Projects/AdditionConsoleApp/obj/Debug/net7.0/AdditionConsoleApp.genruntimeconfig.cache
+/home/gerald/Desktop/All/Projects/AdditionConsoleApp/obj/Debug/net7.0/ref/AdditionConsoleApp.dll
